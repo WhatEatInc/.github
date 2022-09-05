@@ -2,13 +2,15 @@
   <img height="300px" src="https://raw.githubusercontent.com/WhatEatInc/WhatEat-doc/main/Cahier%20des%20charges/images/logo.png" \>
 </div>
 
+<div>
+
+</div>
+
 ![](https://img.shields.io/badge/version-1.0.0-green.svg)
 [![](https://img.shields.io/badge/licence-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/89eadb82-5256-4fd1-abe6-d4c6a9c8e9ab/deploy-status)](https://app.netlify.com/sites/whateat-frontend/deploys)
 ![Heroku](https://pyheroku-badge.herokuapp.com/?app=whateat-backend&style=flat)
-
-[StudyStorm](https://studystorm.net) est la meilleure plateforme d'apprentissage en ligne pour les étudiants.
 
 ## Description du projet
 
