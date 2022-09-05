@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WhatEatInc/WhatEat-doc/main/Cahier%20des%20charges/images/logo.png" \>
+  <img height="300px" src="https://raw.githubusercontent.com/WhatEatInc/WhatEat-doc/main/Cahier%20des%20charges/images/logo.png" \>
 </div>
 
 ![](https://img.shields.io/badge/version-1.0.0-green.svg)
